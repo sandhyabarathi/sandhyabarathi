@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sandhya+Barathi;+Welcome+to+My+Profile!;Passionate+in+web+technologies+and+in+blockchain)](https://git.io/typing-svg) 
-<h1 align="center">Hi 👋, I'm Sandhya Barathi K</h1>
-<h3 align="center">Passionate in Web technologies and in blockchain development </h3>
+<h1 align="center">Hello, I'm Sandhya Barathi K</h1>
+<p align="center"> Working on web development</p>
 
 <p align="left">
 </p>
