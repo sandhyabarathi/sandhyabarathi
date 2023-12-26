@@ -13,9 +13,6 @@
 <!--OMG! 😱 This snake is eating my Git Commit 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90634510/148650204-558fbc9c-9a0e-4742-92fb-ee987ae3353d.gif) -->
 
-### 📈 GitHub Activity Graph:
-
-![Manoj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sandhyabarathi&hide_border=true&theme=redical)
 
 
 ---
@@ -24,13 +21,6 @@
 
 ![image](https://user-images.githubusercontent.com/90634510/160227968-b02da26d-1c75-478f-9642-0855dad4679a.png)
 
-
-<summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyabarathi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="sandhyabarathi" /></p>
-
-
-<summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/DeveloperMANOJKUMAR-LOTUS"><img src="https://github-profile-trophy.vercel.app/?username=sandhyabarathi&margin-w=5&theme=radical" alt="Manojkumar" /></a> </p>
 
 <br>
 
